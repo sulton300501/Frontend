@@ -1,0 +1,34 @@
+@font-face{
+    font-family: "Work sans";
+    src: url("../fonts/Work_Sans/WorkSans-Bold.ttf");
+    font-weight: 700;
+
+
+}
+@font-face{
+    font-family: "Work italic";
+    src: url("../fonts/Work_Sans/WorkSans-Italic.ttf");
+    font-weight: 400;
+}
+@font-face{
+    font-family: "Work regular";
+    src: url("../fonts/Work_Sans/WorkSans-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: "Roboto black";
+    src: url("../fonts/Roboto/Roboto-Black.ttf");
+    font-weight: 700;
+}
+
+@font-face{
+    font-family: "Roboto italic";
+    src: url("../fonts/Roboto/Roboto-Italic.ttf");
+    font-weight: 600;
+}
+@font-face{
+    font-family: "Roboto regular";
+    src: url("../fonts/Roboto/Roboto-Regular.ttf");
+    font-weight: 400;
+}
